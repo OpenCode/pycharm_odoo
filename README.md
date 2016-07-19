@@ -1,6 +1,6 @@
 # Pycharm for OpenERP/Odoo
 
-Set of plugins and snippets to transform PyCharm in a perfect tool for OpenrERP/Odoo developers
+Set of plugins and snippets to transform PyCharm in a perfect tool for OpenERP/Odoo developers
 
 
 ## Import Settings
