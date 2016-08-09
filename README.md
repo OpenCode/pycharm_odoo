@@ -2,6 +2,8 @@
 
 Set of plugins, snippets and templates to transform PyCharm in a perfect tool for OpenERP/Odoo developers
 
+Search information on Twitter with tag \#PyCharmOdoo: https://twitter.com/search?f=tweets&q=%23PyCharmOdoo&src=typd
+
 ## Snippets
 
 ### Import
@@ -14,9 +16,107 @@ Set of plugins, snippets and templates to transform PyCharm in a perfect tool fo
 
 Go to File -> Settings -> Editor -> Code Style -> Live Templates and read snippets list in group Odoo Code, Odoo View, OpenERP Code and ErpPeek
 
+Complete List:
+
+#### Python
+
+* pdb
+
+#### OpenERP Code
+
+* bool openerp
+* binary openerp
+* browse openerp
+* char openerp
+* class openerp 7
+* class openerp 6
+* class inherit openerp 6
+* class inherit openerp 7
+* create openerp
+* date openerp
+* datetime openerp
+* pool
+* float openerp
+* import openerp 6
+* import openerp 7
+* int openerp
+* m2m openerp
+* m2o openerp
+* o2m openerp
+* raise openerp 6
+* raise openerp 7
+* search openerp
+* selection openerp
+* columns openerp
+
+#### Odoo Code
+
+* @api odoo
+* binary odoo
+* char odoo
+* class odoo
+* class_in odoo
+* compute odoo
+* date odoo
+* datetime odoo
+* def
+* float odoo
+* import odoo
+* int odoo
+* m2m odoo
+* m2o odoo
+* o2m odoo
+* raise odoo
+* selection odoo
+* text odoo
+* html odoo
+* ref odoo
+* env odoo
+* search odoo
+* create odoo
+* browse odoo
+* bool odoo
+* create definition odoo
+* write definition odoo
+* on_change odoo
+* dp odoo
+* name_search odoo
+* name_get odoo
+* warning import odoo
+* unlink definition odoo
+* default date odoo
+
+#### Odoo XML
+
+* chatter
+* field
+* filter
+* groupby
+* label
+* notebook
+* odoo
+* page
+* widget
+* xml
+* button
+* report
+* tree
+* form
+* inherit
+* xpart
+* attribute
+* menuitem
+* action
+
+#### ErpPeek
+
+* client erppeek
+* search erppeek
+* count erppeek
+
 ### Use
 
-In python or XML file write the snippet code and press TAB to insert the complete code
+In python or XML file write the snippet and press tab button to insert the complete code
 
 ## Templates
 
