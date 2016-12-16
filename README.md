@@ -88,25 +88,27 @@ Complete List:
 
 #### Odoo XML
 
+
+* action
+* attribute
+* button
 * chatter
 * field
 * filter
+* form
 * groupby
+* inherit
 * label
+* menuitem
 * notebook
 * odoo
 * page
+* report
+* statusbar
+* tree
 * widget
 * xml
-* button
-* report
-* tree
-* form
-* inherit
 * xpart
-* attribute
-* menuitem
-* action
 
 #### ErpPeek
 
